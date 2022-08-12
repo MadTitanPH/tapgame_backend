@@ -176,7 +176,7 @@ module.exports = {
                 {
                     avatar: '',
                     nome: '',
-                    nick: '',
+                    nick,
                     email: '',
                     password: '',
                     score: 0,
